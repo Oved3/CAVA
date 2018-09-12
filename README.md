@@ -8,7 +8,7 @@
 # ALEX ALL Class-Control Soft
 ↓ In your Class-Control bag ↓
 
-	• AA7 v.1.0
-		○ Control Tools
-		○ Demonstration Tools
-		○ Communication Tools
+* AA7 v.1.0
+	* Control Tools
+	* Demonstration Tools
+	* Communication Tools
